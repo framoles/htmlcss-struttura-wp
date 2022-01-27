@@ -21,9 +21,14 @@
   margin-bottom: 10px;
 }
 
+
+
 .lightblue{
   background-color: lightblue;
-  padding-top: 30px;
+}
+
+.head-lightblu{
+  height: 50px;
 }
 
 .purple{
